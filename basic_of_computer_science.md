@@ -14,7 +14,8 @@
 
 参考资料：[进程间通信的历史](https://www.ibm.com/developerworks/cn/linux/l-ipc/)
 
-### 2. 
+### 2. [sisd、simd、misd、mimd](https://zh.wikipedia.org/wiki/%E8%B2%BB%E6%9E%97%E5%88%86%E9%A1%9E%E6%B3%95)
+这四种处理器架构是Flynn发明的，用来对计算机进行分类。1972年，Flynn发现：信息流可分为指令和数据两部分，而指令和数据都可以在同一时间被发送n份到处理器中执行。Flynn根据指令和数据发送的数量来将处理器架构分为sisd、simd、misd以及mimd四种。
 
 
 
